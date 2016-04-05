@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<!-- begin doc -->
+<html lang="en">
+    
+    <!-- begin header -->
+    <head>
+    
+        <!-- page title -->
+        <title>My first html5 media(audio) app</title>
+        <!-- end page title -->
+        
+        <!-- begin meta -->
+        <meta charset="UTF-8">       
+        <!-- end meta -->
+        
+        <!-- begin css -->
+        
+        <!-- end css -->
+    </head>
+    <!-- end header -->
+    
+    <!-- begin body -->
+    <body>
+        <h2>My first html5 media app</h2>
+        <audio src="data/01 Good Morning.mp3" controls></audio>
+    </body>
+    <!-- end body -->
+</html>
+<!-- end doc -->
+        
+        
+        
+        
